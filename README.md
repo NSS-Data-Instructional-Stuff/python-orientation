@@ -1,35 +1,34 @@
-# Bangazon LLC
+# Python Orientation
 
-## The Personal E-Commerce Platform
+This book builds a strong foundation in the syntax, data structures, and valuable methods available in the Python language.
 
-Bangazon LLC welcomes you to the team. You've been selected from a deep pool of candidates to help build the next, disruptive online platform. Our goal is to become the most personalized, and most powerful commericial platform for individuals all around the globe.
+## Setup
 
-You are needed to make that happen.
+Run this command: 
 
-In order to become a profitable, and sustainable organization, we need you to build all of the technology and tooling for the company.
+```bash
+cd ~/Documents
+git clone https://github.com/NSS-Data-Analytics-Cohort-2/python-orientation.git
+``` 
 
-# Learning Objectives
+Follow the installations section!
 
-## Orientation
+## Python Orientation
 
-Your first two weeks on the job will be you orientation to the technical languages, tools, and frameworks that you'll be using. You will also be introduced to the processes and procedures that you will need to follow to ensure high communication and high productivity for your team.
+* Installations / Setup - [Installations](chapters/INSTALLATION.md)
+* Chapter 1 - [Introduction to Python](chapters/Chapter%201%20-%20Intro.ipynb)
+* Chapter 2 - [Conditionals](chapters/Chapter%202%20-%20Conditionals.ipynb)
+* Chapter 3 - [Common Types - Lists](chapters/Chapter%203%20-%20Lists.ipynb)
+* Chapter 4 - [Common Types - Dictionaries](chapters/Chapter%204%20-%20Dictionaries.ipynb)
+* Chapter 5 - [Common Types - Tuples](chapters/Chapter%205%20-%20Tuples.ipynb)
+* Chapter 6 - [Common Types - Sets](chapters/Chapter%206%20-%20Sets.ipynb)
+* Chapter 7 - [Loops](chapters/Chapter%207%20-%20Loopin%20it.ipynb)
+* Chapter 7 - [Python Functions](chapters/Chapter%208%20-%20Functions.ipynb)
+* Chapter 8 - [Student Exercises - Part One](chapters/STUDENT_EXERCISES_TYPES.md)
+* Chapter 9 - [Exceptions and Try/Catch](chapters/TRY_CATCH_INTRO.md)
+* Chapter 10 - [Python Packages](chapters/PYTHON_PACKAGES.md)
 
-1. Installation of required tools.
-1. Introduction to the language.
-1. Concepts of sustainable, scalable, object-oriented software development.
-1. Overview of server-side development ecosystem
-1. How the Internet works
-1. Inheritance, composition, and aggregation
-1. Entity relationships
-1. Structured Query Language (SQL)
-
-## Platform Development
-
-You will work on three different [Sprints](https://www.scruminc.com/sprint/) while you build the products that Bangazon Corporation needs in order to operate as a modern business. On each of these sprints, you will build features that your product owner has defined in the [Backlog](http://www.mountaingoatsoftware.com/agile/scrum/scrum-tools/product-backlog).
-
-Your management team will ensure that you have the proper training in the skills, concepts, and tools needed to complete the projects, and then you will fulfill the requirements for the project until you are done, as defined in the [Bangazon Definition of Done](https://github.com/nashville-software-school/bangazon-llc/blob/master/EMPLOYEE_HANDBOOK.md#definition-of-done).
-
-# The Python Way
+## The Python Way
 
 Beautiful is better than ugly.
 
@@ -68,3 +67,4 @@ If the implementation is hard to explain, it's a bad idea.
 If the implementation is easy to explain, it may be a good idea.
 
 Namespaces are one honking great idea -- let's do more of those!
+

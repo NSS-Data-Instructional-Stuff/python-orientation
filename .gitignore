@@ -1,2 +1,4 @@
 __pycache__
 *.db-journal
+.idea/
+*.ipynb_checkpoints
