@@ -1,14 +1,8 @@
 # Python Orientation
 
-This book builds a strong foundation in the syntax, data structures, and valuable methods available in the Python language.
+This book builds a foundation in the syntax, data structures, and valuable methods available in the Python language.
 
-## Setup
 
-Run this command: 
-
-```bash
-cd ~/Documents
-git clone https://github.com/NSS-Data-Analytics-Cohort-2/python-orientation.git
 ``` 
 
 Follow the installations section!
@@ -23,10 +17,8 @@ Follow the installations section!
 * Chapter 5 - [Common Types - Tuples](chapters/Chapter%205%20-%20Tuples.ipynb)
 * Chapter 6 - [Common Types - Sets](chapters/Chapter%206%20-%20Sets.ipynb)
 * Chapter 7 - [Loops](chapters/Chapter%207%20-%20Loopin%20it.ipynb)
-* Chapter 7 - [Python Functions](chapters/Chapter%208%20-%20Functions.ipynb)
-* Chapter 8 - [Student Exercises - Part One](chapters/STUDENT_EXERCISES_TYPES.md)
-* Chapter 9 - [Exceptions and Try/Catch](chapters/TRY_CATCH_INTRO.md)
-* Chapter 10 - [Python Packages](chapters/PYTHON_PACKAGES.md)
+* Chapter 8 - [Python Functions](chapters/Chapter%208%20-%20Functions.ipynb)
+
 
 ## The Python Way
 
