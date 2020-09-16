@@ -1,9 +1,7 @@
 # Python Orientation
 
-This book builds a foundation in the syntax, data structures, and valuable methods available in the Python language.
+This book builds a foundation in the syntax, data structures, and methods available in the Python language.
 
-
-``` 
 
 Follow the installations section!
 
