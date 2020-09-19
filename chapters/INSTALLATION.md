@@ -41,6 +41,8 @@ You can also launch Jupyter from your Terminal or Command Prompt. Navigate to yo
 
 This worked _if_..
 * A browser on your computer opened up
+* You get a message in your Command Prompt that looks like this:
+![image](https://user-images.githubusercontent.com/59903096/93686392-848d5e00-fa7b-11ea-990b-4f06b4dfb77c.png)
 * The browser is displaying something like this
 
 ![Jupyter Homepage](./images/jupyter_home.png)
