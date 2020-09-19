@@ -4,15 +4,9 @@
 
 Follow [this link](https://www.anaconda.com/distribution/) to the Anaconda Distribution downloads page.
 
-### Mac Users
-Click the download button, and follow the directions on your installer prompt.
-Choose the defaults for everything.
-![Anaconda Installation Downloads Button](./images/anaconda_downloads_macos.png) 
-
-### Windows Users
-Click the download button, and follow the directions on your installer prompt.
-Choose the defaults for everything.
-![Anaconda Installation Downloads Button](./images/anaconda_downloads_windows.png)
+### All Users
+Click the download button, and follow the directions on your installer prompt
+![image](https://user-images.githubusercontent.com/59903096/93669488-3c117880-fa5a-11ea-8b0e-57659ce90d66.png)
 
 ### Verifying Your Installation
 
