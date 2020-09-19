@@ -2,7 +2,7 @@
 
 ## Anaconda Distribution
 
-Follow [this link](https://www.anaconda.com/distribution/) to the Anaconda Distribution downloads page.
+Follow [this link](https://www.anaconda.com/distribution/) to the Anaconda Distribution downloads page. Scroll to the bottom of the page.
 
 ### All Users
 Click the download button, and follow the directions on your installer prompt
